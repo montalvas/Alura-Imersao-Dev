@@ -34,19 +34,13 @@ body {
   right: 10px;
 }
 
-.galeria {
-  width: 100%;
-  height: 100%;
-}
-
-.galeria > img {
+#galeria > img {
   margin: 0 10px;
   display: inline-block;
 }
 
 img {
   max-height: 250px;
-  max-width: 250px;
 }
 
 .insert {
