@@ -69,3 +69,26 @@ h2 {
 .opcoes {
     color: white;
 }
+
+table {
+    margin: 20px auto;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+td > img {
+    width: 400px;
+    height: 270px;
+}
+
+span {
+    margin-left: 10px;
+}
+
+p {
+    color: white;
+}
